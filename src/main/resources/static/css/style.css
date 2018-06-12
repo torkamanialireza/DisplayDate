@@ -1,0 +1,17 @@
+p.h1 {
+    width: 50%;
+    display: inline-block;
+    color: blue;
+    text-align:center;
+    margin-top:20%;
+}
+
+h1.time {
+    color: green;
+    width:100%;
+}
+
+h1.date {
+    color: blue;
+    width:100%;
+}
